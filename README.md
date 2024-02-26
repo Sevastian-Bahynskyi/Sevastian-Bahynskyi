@@ -1,11 +1,13 @@
-# Hi there 👋
-# I am Sevastian Bahynskyi
+# Hi there 👋 I am Sevastian Bahynskyi
 
-### Here are some bullet points to get an idea about me
+## Here are some bullet points to get an idea about me
 
 💻 Love coding
+
 💪 Hard learner and very enthusiastic
+
 🎓 Studying at VIA University College
+
 🌳 Constantly improving my skills
 <!--
 **Sevastian-Bahynskyi/Sevastian-Bahynskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
