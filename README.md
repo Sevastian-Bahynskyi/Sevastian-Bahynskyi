@@ -1,25 +1,25 @@
-# Hi there 👋 I am Sevastian Bahynskyi
+# 👋 Sevastian Bahynskyi
 
-## Here are some bullet points to get an idea about me
+**Full-Stack Developer** studying at VIA University College
 
-💻 Love coding
+I build scalable software and thrive on solving complex problems. Continuous learner with a passion for crafting quality code.
 
-💪 Hard learner and very enthusiastic
+## ⚡ Tech Stack
 
-🎓 Studying at VIA University College
+**Languages:** TypeScript -  C# -  Java -  Python -  Swift -  Kotlin
 
-🌳 Constantly improving my skills
-<!--
-**Sevastian-Bahynskyi/Sevastian-Bahynskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps & Tools:** Docker -  Kubernetes -  Git -  GitLab/GitHub Actions
 
-Here are some ideas to get you started:
+**APIs & Architecture:** gRPC -  REST -  Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+Building production-ready applications with modern architectures. Currently focused on backend systems, cloud deployments, and mobile development.
+
+## 🤝 Beyond Code
+
+Strong communicator who thrives in team environments. I enjoy attending dev conferences, joining hackathons, and tackling coding challenges, always looking for opportunities to learn from peers, build cool stuff quickly, and expand my network. Always up for a challenge and learning something new.
+
+## 📫 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/sevastian-bahynskyi-571970243) -  📧 [Email](s.bahynskyi@gmail.com) -  📍 Horsens, Denmark
